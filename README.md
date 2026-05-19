@@ -1,7 +1,7 @@
 # UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors
 PyTorch implementation for 《[UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors](https://www.sciencedirect.com/science/article/abs/pii/S1361841526001271)》
 
-We are currently organizing our code and expect to release it in late April.
+We are currently organizing our code and expect to release it in late May.
 
 ## Citation
 
